@@ -4,7 +4,7 @@
 
 ## Description
 
-This project consists the information regarding the apache 2
+This project consists the information regarding the apache 2.0
 
 ## License
 
